@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Noakai's github activity](https://github-readme-stats.vercel.app/api?username=naronesty)
+![Noakai's github activity](https://github-readme-stats.vercel.app/api?username=naronesty)\
 ![Noakai's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naronesty)
