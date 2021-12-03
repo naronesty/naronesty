@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Noakai's github activity](https://github-readme-stats.vercel.app/api?username=naronesty)\
-![Noakai's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naronesty)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=naronesty.visitor-badge)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naronesty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naronesty&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
