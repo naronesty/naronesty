@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![views](https://komarev.com/ghpvc/?username=naronesty)\
-![Noakai's stats](https://github-readme-stats.vercel.app/api?username=naronesty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&text_color=e0d4ff&title_color=0526ff)\
-![Noakai's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naronesty&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=30,e96443,904e95&text_color=e0d4ff&title_color=0526ff)
+![Noakai's stats](https://github-readme-stats.vercel.app/api?username=naronesty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=30,F9A1F3,A1A4F9&text_color=4607CA&title_color=5100FC)\
+![Noakai's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naronesty&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=30,F9A1F3,A1A4F9&text_color=4607CA&title_color=5100FC)
