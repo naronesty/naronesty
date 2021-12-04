@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![views](https://komarev.com/ghpvc/?username=naronesty&style=flat)
+![views](https://komarev.com/ghpvc/?username=naronesty&style=flat&color=blueviolet)
 [![gmail](https://img.shields.io/static/v1?label=&message=noakai@gmail.com&color=white&style=flat&logo=gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&to=noakai@gmail.com)\
 [![twitter](https://img.shields.io/twitter/follow/naronesty?style=social)](https://twitter.com/naronesty)
 [![discord](https://dcbadge.vercel.app/api/shield/514918640861052952?style=social)](https://discord.com/channels/@me)
