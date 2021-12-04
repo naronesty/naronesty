@@ -24,7 +24,7 @@ Also an option:
 [![gmail](https://img.shields.io/static/v1?label=&message=noakai@gmail.com&color=red&style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=noakai@gmail.com)\
 [![discord](https://img.shields.io/static/v1?label=&message=HippoSapien%231330&color=5865F2&style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![twitter](https://img.shields.io/static/v1?label=&message=@naronesty&color=00acee&style=flat&logo=twitter&logoColor=white)](https://twitter.com/naronesty)
-[![facebook](https://img.shields.io/static/v1?label=&message=naronesty&color=1877f2&style=flat&logo=facebook&logoColor=white)](https://www.reddit.com/user/naronesty)
-[![reddit](https://img.shields.io/static/v1?label=&message=u/naronesty&color=FF5700&style=flat&logo=reddit&logoColor=white)](https://www.facebook.com/naronesty)\
+[![reddit](https://img.shields.io/static/v1?label=&message=u/naronesty&color=FF5700&style=flat&logo=reddit&logoColor=white)](https://www.facebook.com/naronesty)
+[![facebook](https://img.shields.io/static/v1?label=&message=naronesty&color=1877f2&style=flat&logo=facebook&logoColor=white)](https://www.reddit.com/user/naronesty)\
 ![Noakai's stats](https://github-readme-stats.vercel.app/api?username=naronesty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=30,F9A1F3,A1A4F9&text_color=4607CA&title_color=5100FC)\
 ![Noakai's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naronesty&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=30,F9A1F3,A1A4F9&text_color=4607CA&title_color=5100FC)
