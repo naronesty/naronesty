@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 ![views](https://komarev.com/ghpvc/?username=naronesty&style=flat&color=blueviolet)
 [![gmail](https://img.shields.io/static/v1?label=&message=noakai@gmail.com&color=white&style=flat&logo=gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&to=noakai@gmail.com)\
-[![twitter](https://img.shields.io/twitter/follow/naronesty?style=social)](https://twitter.com/naronesty)
+[![twitter](https://img.shields.io/twitter/follow/naronesty?style=social&label=@naronesty)](https://twitter.com/naronesty)
 [![discord](https://dcbadge.vercel.app/api/shield/514918640861052952?style=social)](https://discord.com/channels/@me)
-[![reddit](https://img.shields.io/reddit/user-karma/combined/naronesty?style=social)](https://www.reddit.com/user/naronesty)\
+[![reddit](https://img.shields.io/reddit/user-karma/combined/naronesty?style=social&label=u/naronesty)](https://www.reddit.com/user/naronesty)\
 ![Noakai's stats](https://github-readme-stats.vercel.app/api?username=naronesty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=30,F9A1F3,A1A4F9&text_color=4607CA&title_color=5100FC)\
 ![Noakai's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naronesty&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=30,F9A1F3,A1A4F9&text_color=4607CA&title_color=5100FC)
