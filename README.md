@@ -29,4 +29,4 @@ Also an option:
 [![soundcloud](https://img.shields.io/static/v1?label=&message=noakai%20aronesty&color=ff7700&style=flat&logo=soundcloud&logoColor=white)](https://soundcloud.com/noakai-aronesty)\
 ![Noakai's stats](https://github-readme-stats.vercel.app/api?username=naronesty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=30,F9A1F3,A1A4F9&text_color=4607CA&title_color=5100FC)\
 ![Noakai's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naronesty&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=30,F9A1F3,A1A4F9&text_color=4607CA&title_color=5100FC)\
-[Also Cool](http://moe.stuy.edu/~naronesty20/Final_Project.html)
+[![Black Holws](https://img.shields.io/static/v1?label=&message=Black%20Holes&color=black&style=flat&logo=&logoColor=white)](http://moe.stuy.edu/~naronesty20/Final_Project.html)
