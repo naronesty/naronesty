@@ -19,7 +19,7 @@ Also an option:
 [![discord](https://dcbadge.vercel.app/api/shield/514918640861052952?style=social)](https://discord.com/channels/@me)
 [![reddit](https://img.shields.io/reddit/user-karma/combined/naronesty?style=social&label=u/naronesty)](https://www.reddit.com/user/naronesty)\
 -->
-### Hi there, I'm Noakai Aronesty 👋
+### Hi there, I'm Noakai 👋
 ![views](https://komarev.com/ghpvc/?username=naronesty&style=flat&color=blueviolet)
 [![gmail](https://img.shields.io/static/v1?label=&message=noakai@gmail.com&color=D44638&style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=noakai@gmail.com)
 [![discord](https://img.shields.io/static/v1?label=&message=HippoSapien%231330&color=5865F2&style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me)\
