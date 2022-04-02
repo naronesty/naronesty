@@ -21,8 +21,8 @@ Also an option:
 -->
 ### Hi there, I'm Noakai 👋
 ![views](https://komarev.com/ghpvc/?username=naronesty&style=flat&color=blueviolet)
-[![gmail](https://img.shields.io/static/v1?label=&message=noakai@gmail.com&color=D44638&style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=noakai@gmail.com)
-[![discord](https://img.shields.io/static/v1?label=&message=HippoSapien%231330&color=5865F2&style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me)\
+[![gmail](https://img.shields.io/static/v1?label=&message=noakai@gmail.com&color=D44638&style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=noakai@gmail.com)\
+<!-- [![discord](https://img.shields.io/static/v1?label=&message=HippoSapien%231330&color=5865F2&style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me)\ -->
 [![twitter](https://img.shields.io/static/v1?label=&message=@naronesty&color=00acee&style=flat&logo=twitter&logoColor=white)](https://twitter.com/naronesty)
 [![reddit](https://img.shields.io/static/v1?label=&message=u/naronesty&color=FF5700&style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/naronesty)
 [![facebook](https://img.shields.io/static/v1?label=&message=naronesty&color=1877f2&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/naronesty)
