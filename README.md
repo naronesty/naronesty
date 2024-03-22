@@ -32,5 +32,5 @@ Also an option:
 ### Websites
 [![Schedule Camp](https://img.shields.io/static/v1?label=&message=Schedule%20Camp%20(official)&color=3b9ebf&style=flat&logo=&logoColor=white)](https://mowglis.schedule.camp/)
 [![Smithy](https://img.shields.io/static/v1?label=&message=Smithy&color=5a4ae3&style=flat&logo=&logoColor=white)](http://projectsmithy.com/)
-[![Snake++](https://img.shields.io/static/v1?label=&message=Snake%2B%2B&color=2db539&style=flat&logo=&logoColor=white)](http://165.227.95.98/)
-[![Black Holes](https://img.shields.io/static/v1?label=&message=Black%20Holes&color=5e5e5e&style=flat&logo=&logoColor=white)](http://moe.stuy.edu/~naronesty20/Final_Project.html)
+[![Snake++](https://img.shields.io/static/v1?label=&message=Snake%2B%2B&%20(dated)color=2db539&style=flat&logo=&logoColor=white)](http://165.227.95.98/)
+[![Black Holes](https://img.shields.io/static/v1?label=&message=Black%20Holes%20(dated)&color=5e5e5e&style=flat&logo=&logoColor=white)](http://moe.stuy.edu/~naronesty20/Final_Project.html)
