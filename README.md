@@ -30,6 +30,7 @@ Also an option:
 <!-- ![Noakai's stats](https://github-readme-stats.vercel.app/api?username=naronesty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=30,F9A1F3,A1A4F9&text_color=4607CA&title_color=5100FC)\ -->
 ![Noakai's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naronesty&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=30,F9A1F3,A1A4F9&text_color=4607CA&title_color=5100FC)
 ### Websites
+[![Schedule Camp](https://img.shields.io/static/v1?label=&message=ScheduleCamp&color=5a4ae3&style=flat&logo=&logoColor=white)](https://mowglis.schedule.camp/)
 [![Smithy](https://img.shields.io/static/v1?label=&message=Smithy&color=5a4ae3&style=flat&logo=&logoColor=white)](http://projectsmithy.com/)
 [![Snake++](https://img.shields.io/static/v1?label=&message=Snake%2B%2B&color=2db539&style=flat&logo=&logoColor=white)](http://165.227.95.98/)
 [![Black Holes](https://img.shields.io/static/v1?label=&message=Black%20Holes&color=5e5e5e&style=flat&logo=&logoColor=white)](http://moe.stuy.edu/~naronesty20/Final_Project.html)
